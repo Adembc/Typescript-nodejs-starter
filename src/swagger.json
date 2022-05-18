@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "some Title Documentation",
+    "description": "This is the official API Documentation for name of project APP ",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "some url"
+    }
+  ]
+}
